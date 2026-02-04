@@ -42,20 +42,20 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-![alt text](<../WhatsApp Image 2026-02-04 at 10.49.36 AM.jpeg>)
+![alt text](<WhatsApp Image 2026-02-04 at 10.49.36 AM.jpeg>)
 
 
 cat < file2
 ## OUTPUT
-![alt text](<../WhatsApp Image 2026-02-04 at 10.49.37 AM.jpeg>)
+![alt text](<WhatsApp Image 2026-02-04 at 10.49.37 AM.jpeg>)
 
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
- ![alt text](<../WhatsApp Image 2026-02-04 at 10.49.38 AM.jpeg>)
+ ![alt text](<WhatsApp Image 2026-02-04 at 10.49.38 AM.jpeg>)
 comm file1 file2
  ## OUTPUT
-![alt text](../1.jpeg)
+![alt text](1.jpeg)
  
 diff file1 file2
 ## OUTPUT
@@ -1079,7 +1079,7 @@ else
 fi
 ```
 ## OUTPUT 
-![alt text](../75.jpeg)
+![alt text](/75.jpeg)
 
 # RESULT:
 The Commands are executed successfully.
